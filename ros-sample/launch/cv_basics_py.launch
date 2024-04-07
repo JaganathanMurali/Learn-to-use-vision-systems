@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="yuvan" type="webcam_pub.py" name="webcam_pub" output="screen"/>
+  <node pkg="yuvan" type="webcam_sub.py" name="webcam_sub" output="screen"/>
+</launch>

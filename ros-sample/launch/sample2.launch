@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="yuvan" type="img_pub_2_img.py" name="img_pub" output="screen"/>
+  <node pkg="yuvan" type="img_sub_2_img.py" name="img_sub3" output="screen"/>
+</launch>
