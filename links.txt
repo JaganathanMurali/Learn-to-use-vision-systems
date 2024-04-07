@@ -1,0 +1,5 @@
+reality blogs:
+https://realitybytes.blog/2018/08/17/graph-based-path-planning-a/
+
+a & d:
+https://github.com/SakshayMahna/Robotics-Playground/tree/main/turtlebot3_ws
